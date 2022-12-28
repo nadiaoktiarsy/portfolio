@@ -9,6 +9,12 @@ This repository is the collection of my works, and school assignments. This port
 2. The second part will be about Machine Learning, sucha as Regression and Classification. Moreover, I will add another work with a different language, R.
 3. The third part is about Deep Learning: Artifical Neural Network and Deep Neural Network, and finally about the Sentiment Analysis based on Natural Language Processing (NLP).
 
+"Milestones" are projects with deployment, where the model from each project is deployed on HuggingFace as the frontend, and Koyeb as the backend.
+
+For more information about my complete porfolio, visit and browse these branches:
+
+<img src="https://media.discordapp.net/attachments/953902120199917628/1057587815665377390/image.png"></img>
+
 # Final Project
 This repository contains Digital Financial Advisory (DiFA) models trained from scratch to give the user risk profiling and to suggest the best investment they can do right away! The following list provides an overview of all currently available models.
 
